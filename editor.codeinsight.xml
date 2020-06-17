@@ -1,8 +1,0 @@
-<application>
-  <component name="OCCodeFoldingSettings">
-    <option name="collapseBlockExpressions" value="true" />
-    <option name="collapseMultilineComments" value="true" />
-    <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
-    <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
-  </component>
-</application>
